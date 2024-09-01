@@ -1,0 +1,1 @@
+["customer_id", "country", "gender", "products_number"]

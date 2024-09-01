@@ -1,0 +1,6 @@
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.24.174.128:8501
+  External URL: http://44.212.146.219:8501
+
+  URL: https://huggingface.co/spaces/Christ240/bank_customer_churn_prediction
